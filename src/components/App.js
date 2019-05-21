@@ -8,12 +8,10 @@ import Red from './RedComponent';
 export default function App() {
   return (
     <Router>
-      <Switch>
-        <Route path="/" component={Header} />
-        <Route path="/blue" component={Blue} />
-        <Route path="/yellow" component={Yellow} />
-        <Route path="/red" component={Red} />
-      </Switch>
+      <Route path="/" component={Header} />
+      <Route path="/blue" component={Blue} />
+      <Route path="/yellow" component={Yellow} />
+      <Route path="/red" component={Red} />
     </Router>
   );
 }
