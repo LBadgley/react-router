@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Blue Component Test renders the blue component 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "blue",
+      "borderRadius": "100%",
+      "height": "550px",
+      "width": "550px",
+    }
+  }
+/>
+`;
