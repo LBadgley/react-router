@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`RedComponent Test renders the red component 1`] = `
+exports[`Yellow Component Test renders the Yellow component 1`] = `
 <div
   style={
     Object {

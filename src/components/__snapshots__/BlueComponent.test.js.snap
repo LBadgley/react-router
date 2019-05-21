@@ -5,6 +5,7 @@ exports[`Blue Component Test renders the blue component 1`] = `
   style={
     Object {
       "backgroundColor": "blue",
+      "borderRadius": "100%",
       "height": "550px",
       "width": "550px",
     }
